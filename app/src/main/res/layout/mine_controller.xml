@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                             xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="wrap_content"
+                                             android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/ClickButton"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:alpha="0.3"
+        android:text="@string/button_click"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/FlagButton" />
+
+    <Button
+        android:id="@+id/FlagButton"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:alpha="0.3"
+        android:text="@string/button_flag"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

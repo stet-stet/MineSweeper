@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.example.jayeonyi.minesweeper.Square
+        android:id="@+id/ms_text"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="0dp"
+        android:background="@drawable/ms_border"
+        android:gravity="center"
+        android:text="@string/g_mine"
+        android:textColor="@color/g_mine"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</FrameLayout>

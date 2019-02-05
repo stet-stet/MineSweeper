@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="g_empty">#000000</color>
+    <color name="g_one">#0000FF</color>
+    <color name="g_two">#00FF00</color>
+    <color name="g_three">#FF0000</color>
+    <color name="g_four">#000099</color>
+    <color name="g_five">#880000</color>
+    <color name="g_six">#00BBBB</color>
+    <color name="g_seven">#AA00AA</color>
+    <color name="g_eight">#000000</color>
+    <color name="g_flag">#FF3333</color>
+    <color name="g_mine">#000000</color>
+    <color name="g_hatena">#FFFFFF</color>
+    <color name="g_highlightBorder">#FF0000</color>
+    <color name="g_open">#BBBBBB</color>
+    <color name="g_closed">#888888</color>
+    <color name="black">#000000</color>
+</resources>

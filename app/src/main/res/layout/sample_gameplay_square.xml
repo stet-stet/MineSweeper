@@ -1,0 +1,24 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.jayeonyi.minesweeper.GameplaySquare
+        android:background="#ccc"
+        android:visibility="visible"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"/>
+        <!--app:gameplayEight="@drawable/gameplay_8"-->
+        <!--app:gameplayEmpty="@drawable/gameplay_square_unopened"-->
+        <!--app:gameplayFive="@drawable/gameplay_5"-->
+        <!--app:gameplayFlagged="@drawable/gameplay_square_flagged"-->
+        <!--app:gameplayFour="@drawable/gameplay_4"-->
+        <!--app:gameplayHatena="@drawable/gameplay_square_hatena"-->
+        <!--app:gameplayMine="@drawable/gameplay_square_mine"-->
+        <!--app:gameplayOne="@drawable/gameplay_1"-->
+        <!--app:gameplaySeven="@drawable/gameplay_7"-->
+        <!--app:gameplaySix="@drawable/gameplay_6"-->
+        <!--app:gameplayThree="@drawable/gameplay_3"-->
+        <!--app:gameplayTwo="@drawable/gameplay_2"-->
+        <!--app:gameplayZero="@drawable/gameplay_0"-->
+</FrameLayout>

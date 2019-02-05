@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="GameplaySquare">
+        <item>@drawable/gameplay_0</item>
+        <item>@drawable/gameplay_1</item>
+        <item>@drawable/gameplay_2</item>
+        <item>@drawable/gameplay_3</item>
+        <item>@drawable/gameplay_4</item>
+        <item>@drawable/gameplay_5</item>
+        <item>@drawable/gameplay_6</item>
+        <item>@drawable/gameplay_7</item>
+        <item>@drawable/gameplay_8</item>
+        <item>@drawable/gameplay_square_mine</item>
+        <item>@drawable/gameplay_square_unopened</item>
+        <item>@drawable/gameplay_square_flagged</item>
+        <item>@drawable/gameplay_square_hatena</item>
+    </array>
+    <array name="SquareCenterTexts">
+        <item>@string/g_empty</item>
+        <item>@string/g_one</item>
+        <item>@string/g_two</item>
+        <item>@string/g_three</item>
+        <item>@string/g_four</item>
+        <item>@string/g_five</item>
+        <item>@string/g_six</item>
+        <item>@string/g_seven</item>
+        <item>@string/g_eight</item>
+        <item>@string/g_mine</item>
+        <item>@string/g_empty</item>
+        <item>@string/g_flag</item>
+        <item>@string/g_hatena</item>
+
+
+    </array>
+</resources>

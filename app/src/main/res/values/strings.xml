@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <!-- BEGIN main screen -->
+    <string name="mainscreen_title">지뢰찾기</string>
+    <string name="mainscreen_subtitle">의문의</string>
+    <string name="mainscreen_easy">EASY</string>
+    <string name="mainscreen_hard">HARD</string>
+    <string-array name="Difficulties">
+        <item>EASY</item>
+        <item>HARD</item>
+    </string-array>
+    <string name="mainscreen_help">HELP</string>
+    <string name="mainscreen_help_toggle_cross">Touch these keys\nto move around</string>
+    <string name="mainscreen_help_toggle_F">Touch F to put a flag on the current square.</string>
+    <string name="mainscreen_help_toggle_C">Touch C to select, or to reveal what is on the current square.</string>
+    <string name="mainscreen_help_objective">The objective of the game is to reveal all squares that do not contain mines.</string>
+    <!-- END main screen -->
+    <!-- BEGIN main screen -->
+    <string name="button_flag">F</string>
+    <string name="button_click">C</string>
+    <!-- END main screen -->
+    <!-- BEGIN misc -->
+    <string name="left">L</string>
+    <string name="right">R</string>
+    <string name="up">U</string>
+    <string name="down">D</string>
+    <!-- ENd misc -->
+    <!-- BEGIN in-game -->
+    <string name="g_one">1</string>
+    <string name="g_two">2</string>
+    <string name="g_three">3</string>
+    <string name="g_four">4</string>
+    <string name="g_five">5</string>
+    <string name="g_six">6</string>
+    <string name="g_seven">7</string>
+    <string name="g_eight">8</string>
+
+    <string name="g_empty" />
+    <string name="g_hatena">&#xF128;</string>
+    <string name="g_mine">&#xF1E2;</string>
+    <string name="g_flag">&#xF11E;</string>
+
+
+    <!-- END in-game -->
+</resources>
